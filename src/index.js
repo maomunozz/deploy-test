@@ -1,7 +1,7 @@
 const app = require("./app");
 
-app.listen(5000, () => {
-  console.log("Servidor ejecutandose en http://localhost:5000/");
+app.listen(3000, () => {
+  console.log("Servidor ejecutandose en http://localhost:3000/");
 });
 
 // Dividir el código
